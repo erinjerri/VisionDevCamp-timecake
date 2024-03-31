@@ -13,6 +13,6 @@ struct TimeCakeApp: App {
         WindowGroup {
             ContentView()
         }
-        .defaultSize(width: 400, height: 315)
+        .defaultSize(width: 500, height: 260)
     }
 }
