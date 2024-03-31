@@ -1,8 +1,8 @@
 {
   "images" : [
     {
-      "idiom" : "vision",
-      "scale" : "2x"
+      "filename" : "TimeCakeIconOP512.png",
+      "idiom" : "vision"
     }
   ],
   "info" : {

@@ -50,7 +50,7 @@ func buildCylinder(color: UIColor, secondsElapsed: UInt64, secondsTotal: UInt64)
 
 class ModeData {
     var secondsTotal: UInt64
-    @State var secondsElapsed: UInt64 = 0
+    @State var secondsElapsed: UInt64 = 8000
     var timeRemaining: String {
         get {
             let secondsLeft = self.secondsTotal - self.secondsElapsed

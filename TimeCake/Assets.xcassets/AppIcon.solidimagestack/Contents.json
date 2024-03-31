@@ -8,10 +8,7 @@
       "filename" : "Front.solidimagestacklayer"
     },
     {
-      "filename" : "Middle.solidimagestacklayer"
-    },
-    {
-      "filename" : "Back.solidimagestacklayer"
+      "filename" : "Layer.solidimagestacklayer"
     }
   ]
 }
